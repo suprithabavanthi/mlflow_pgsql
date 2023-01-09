@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/750476563505702939/7e53bc7e3528440a926e42562eb56a46/artifacts
+end_time: 1673259827193
+entry_point_name: ''
+experiment_id: '750476563505702939'
+lifecycle_stage: active
+run_id: 7e53bc7e3528440a926e42562eb56a46
+run_name: iris_classifier_method-1
+run_uuid: 7e53bc7e3528440a926e42562eb56a46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673259825011
+status: 3
+tags: []
+user_id: sbava

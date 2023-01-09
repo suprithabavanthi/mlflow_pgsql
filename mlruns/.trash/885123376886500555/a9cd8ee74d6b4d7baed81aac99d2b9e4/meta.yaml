@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sbava/track/mlruns/885123376886500555/a9cd8ee74d6b4d7baed81aac99d2b9e4/artifacts
+end_time: 1673003729404
+entry_point_name: ''
+experiment_id: '885123376886500555'
+lifecycle_stage: active
+run_id: a9cd8ee74d6b4d7baed81aac99d2b9e4
+run_name: dapper-shark-379
+run_uuid: a9cd8ee74d6b4d7baed81aac99d2b9e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673003722085
+status: 4
+tags: []
+user_id: sbava

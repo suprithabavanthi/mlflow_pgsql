@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sbava/track/mlruns/885123376886500555/aa8e1e04a5274ec9ac53d11cecc156a4/artifacts
+end_time: 1673242078531
+entry_point_name: ''
+experiment_id: '885123376886500555'
+lifecycle_stage: active
+run_id: aa8e1e04a5274ec9ac53d11cecc156a4
+run_name: marvelous-wolf-181
+run_uuid: aa8e1e04a5274ec9ac53d11cecc156a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673242074497
+status: 4
+tags: []
+user_id: sbava

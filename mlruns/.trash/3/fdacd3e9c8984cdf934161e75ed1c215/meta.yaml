@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ashutosh%20Tripathi/Documents/projects/mlflow/mlruns/3/fdacd3e9c8984cdf934161e75ed1c215/artifacts
+end_time: 1672998307830
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: fdacd3e9c8984cdf934161e75ed1c215
+run_name: sincere-deer-936
+run_uuid: fdacd3e9c8984cdf934161e75ed1c215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672998303885
+status: 4
+tags: []
+user_id: sbava

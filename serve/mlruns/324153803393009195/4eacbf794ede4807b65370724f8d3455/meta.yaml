@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sbava/track/serve/mlruns/324153803393009195/4eacbf794ede4807b65370724f8d3455/artifacts
+end_time: 1673258912026
+entry_point_name: ''
+experiment_id: '324153803393009195'
+lifecycle_stage: active
+run_id: 4eacbf794ede4807b65370724f8d3455
+run_name: iris_classifier_model09-01-23
+run_uuid: 4eacbf794ede4807b65370724f8d3455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673258907861
+status: 3
+tags: []
+user_id: sbava

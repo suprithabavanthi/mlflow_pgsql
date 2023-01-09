@@ -1,0 +1,12 @@
+creation_timestamp: 1673260040874
+current_stage: None
+description: ''
+last_updated_timestamp: 1673260040874
+name: basic-classifier-method-3
+run_id: 7e53bc7e3528440a926e42562eb56a46
+run_link: ''
+source: 7e53bc7e3528440a926e42562eb56a46/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

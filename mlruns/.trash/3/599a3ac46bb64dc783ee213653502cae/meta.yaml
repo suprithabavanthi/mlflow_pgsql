@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ashutosh%20Tripathi/Documents/projects/mlflow/mlruns/3/599a3ac46bb64dc783ee213653502cae/artifacts
+end_time: 1672995904648
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: 599a3ac46bb64dc783ee213653502cae
+run_uuid: 599a3ac46bb64dc783ee213653502cae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672995895628
+status: 4
+tags: []
+user_id: sbava

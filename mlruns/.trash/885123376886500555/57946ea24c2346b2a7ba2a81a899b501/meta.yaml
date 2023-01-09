@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sbava/track/mlruns/885123376886500555/57946ea24c2346b2a7ba2a81a899b501/artifacts
+end_time: 1673005397219
+entry_point_name: ''
+experiment_id: '885123376886500555'
+lifecycle_stage: active
+run_id: 57946ea24c2346b2a7ba2a81a899b501
+run_name: abrasive-yak-415
+run_uuid: 57946ea24c2346b2a7ba2a81a899b501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673005393013
+status: 3
+tags: []
+user_id: sbava

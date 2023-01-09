@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sbava/track/mlruns/524179986094954113/2eff93d073704648b01f3b38f9d9abdd/artifacts
+end_time: 1673243961526
+entry_point_name: ''
+experiment_id: '524179986094954113'
+lifecycle_stage: active
+run_id: 2eff93d073704648b01f3b38f9d9abdd
+run_name: debonair-snail-428
+run_uuid: 2eff93d073704648b01f3b38f9d9abdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673243958303
+status: 3
+tags: []
+user_id: sbava

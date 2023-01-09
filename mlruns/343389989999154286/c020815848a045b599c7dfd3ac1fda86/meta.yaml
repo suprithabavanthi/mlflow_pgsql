@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sbava/track/mlruns/343389989999154286/c020815848a045b599c7dfd3ac1fda86/artifacts
+end_time: 1673243089382
+entry_point_name: ''
+experiment_id: '343389989999154286'
+lifecycle_stage: active
+run_id: c020815848a045b599c7dfd3ac1fda86
+run_name: useful-pig-576
+run_uuid: c020815848a045b599c7dfd3ac1fda86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673243085898
+status: 3
+tags: []
+user_id: sbava

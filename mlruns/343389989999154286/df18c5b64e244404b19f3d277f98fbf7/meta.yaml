@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sbava/track/mlruns/343389989999154286/df18c5b64e244404b19f3d277f98fbf7/artifacts
+end_time: 1673242797879
+entry_point_name: ''
+experiment_id: '343389989999154286'
+lifecycle_stage: active
+run_id: df18c5b64e244404b19f3d277f98fbf7
+run_name: handsome-shrike-248
+run_uuid: df18c5b64e244404b19f3d277f98fbf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673242793327
+status: 4
+tags: []
+user_id: sbava

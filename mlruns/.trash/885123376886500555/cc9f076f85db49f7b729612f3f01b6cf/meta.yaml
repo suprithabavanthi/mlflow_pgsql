@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sbava/track/mlruns/885123376886500555/cc9f076f85db49f7b729612f3f01b6cf/artifacts
+end_time: 1673241787573
+entry_point_name: ''
+experiment_id: '885123376886500555'
+lifecycle_stage: active
+run_id: cc9f076f85db49f7b729612f3f01b6cf
+run_name: clumsy-cub-315
+run_uuid: cc9f076f85db49f7b729612f3f01b6cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673241781546
+status: 4
+tags: []
+user_id: sbava

@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/Ashutosh%20Tripathi/Documents/projects/mlflow/mlruns/2
+creation_time: null
+experiment_id: '2'
+last_update_time: 1673243052518
+lifecycle_stage: active
+name: basic_classifier
+tags: {}

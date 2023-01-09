@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sbava/track/mlruns/885123376886500555/df3f024f635747669ca19515d6fb065d/artifacts
+end_time: 1673005381898
+entry_point_name: ''
+experiment_id: '885123376886500555'
+lifecycle_stage: active
+run_id: df3f024f635747669ca19515d6fb065d
+run_name: fearless-fish-332
+run_uuid: df3f024f635747669ca19515d6fb065d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673005375969
+status: 4
+tags: []
+user_id: sbava
